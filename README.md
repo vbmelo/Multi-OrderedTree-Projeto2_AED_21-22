@@ -2,8 +2,9 @@
 #Multi-ordered Trees
 
 	01/02/2022
-	Airton Moreira  |  100480  |  50%
-	Victor Barros Melo |  101099  | 50%
+	Victor Barros Melo
+	Airton Moreira  
+	
 
 #Breve Descrição
 
